@@ -1,0 +1,22 @@
+.image{
+    background-image: url('/images/image-header.jpg');
+    height: 1000px;
+    width: auto;
+border-image-outset: ;
+}
+.header a{
+    color: rgb(3, 3, 3);
+    text-align: right;
+    float: right;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px;
+}
+.header a.logo{
+    text-align: left;
+    float: left;
+}
+.header-right a:hover{
+    background-color: white;
+
+}
