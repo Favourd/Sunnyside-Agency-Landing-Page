@@ -1,0 +1,23 @@
+{
+  "name": "sunnyside-agency-landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/style.css -o public/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Favourd/Sunnyside-Agency-Landing-Page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Favourd/Sunnyside-Agency-Landing-Page/issues"
+  },
+  "homepage": "https://github.com/Favourd/Sunnyside-Agency-Landing-Page#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.19"
+  }
+}
