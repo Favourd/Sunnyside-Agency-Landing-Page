@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-design/screenshot.png
+https://github.com/Favourd/Sunnyside-Agency-Landing-Page/blob/main/design/Screenshot.png
 
 
 ### Links
